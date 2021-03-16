@@ -5,7 +5,7 @@
   },
   "name": "pauline-epistles-sunbible-app",
   "version": "0.0.1-beta-test-1",
-  "description": "SunBible: A beautiful way to read, study, and memorize the Bible. KJV",
+  "description": "Pauline Epistles - a SunBible desktop app made with electron.",
   "main": "main.js",
   "homepage": "https://the-sunshining.github.io/SunBible/Paul/PaulineEpistles.html",
   "license": "MIT",
